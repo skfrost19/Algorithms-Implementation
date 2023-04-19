@@ -1,0 +1,29 @@
+Searching :
+	- Linear search
+	- Binary search
+	- Binary Search Tree
+
+Sorting :
+	- Selection Sort
+	- Bubble Sort
+	- Inserting Sort
+	- Heap Sort
+	- Merge Sort
+	- Quick Sort
+
+Greedy :
+	- Huffman's coding
+	- File sorting (Optimal merge pattern)
+	- Knapsack Problem
+	- Job Scheduling Problem
+
+Dynamic Programming :
+	- Longest Common Subsequence
+	- Matrix Chain Multiplication
+	- Floyd warshall problem
+	- Sum of subset problem
+
+Graph Theory :
+	- Minimum Spanning Tree (Prim's and Kruskal's)
+	- Single Source Shortest Path (Dijkstra's algo)
+	- Bellman-ford's modification
