@@ -26,4 +26,4 @@ Dynamic Programming :
 Graph Theory :
 	- Minimum Spanning Tree (Prim's and Kruskal's)
 	- Single Source Shortest Path (Dijkstra's algo)
-	- Bellman-ford's modification
+	- Bellman-ford's modification of shortest path
