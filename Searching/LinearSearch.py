@@ -6,7 +6,6 @@ def linear_search(arr : List, ele):
     """
     Params: List of elements, elements_to_be_searched
     Returns: index of element present, None otherwise
-
     """
 
     for idx, element in enumerate(arr):
