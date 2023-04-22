@@ -2,6 +2,7 @@ Searching :
 	- Linear search
 	- Binary search
 	- Binary Search Tree
+	- AVL Tree
 
 Sorting :
 	- Selection Sort
