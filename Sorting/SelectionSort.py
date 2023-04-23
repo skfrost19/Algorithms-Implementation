@@ -3,16 +3,14 @@ import unittest
 
 
 def selection_sort(arr: List) -> List:
-    size = len(arr)
-    last_idx = len(arr) - 1
-    for i in range(size - 1):
+    size = len(arr) - 1
+    for i in range(size):
         max_idx = 0
-        for j in range(last_idx + 1):
+        for j in range(size - i + 1):
             if arr[j] > arr[max_idx]:
                 max_idx = j
 
-        arr[last_idx], arr[max_idx] = arr[max_idx], arr[last_idx]
-        last_idx -= 1
+        arr[size - i], arr[max_idx] = arr[max_idx], arr[size - i]
     return arr
 
 
